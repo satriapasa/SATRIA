@@ -18,8 +18,8 @@ class Channel:
     http_query_path = "/S4"
     channel_query_path = "/CH4"
 
-    UA = "Line/6.0.0 iPad4,1 9.0.2"
-    LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
+    UA = 'Android Mobile Line/7.18.1' #"Line/6.0.0 iPad4,1 9.0.2"
+    LA = 'DESKTOPWIN\t7.18.1\tFDLRCN\t11.2.5'  #"DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
 
     authToken = None
     mid = None
